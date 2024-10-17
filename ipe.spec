@@ -6,7 +6,7 @@ Release:	%mkrel 1
 Summary:	Drawing editor for creating figures in PDF or PostScript formats
 Group:		Publishing
 License:	GPLv2+
-URL:		http://ipe7.sourceforge.net/
+URL:		https://ipe7.sourceforge.net/
 Source0:	http://sourceforge.net/projects/ipe7/files/%{name}/%{name}-%{version}-src.tar.gz
 BuildRequires:	qt4-devel
 BuildRequires:	desktop-file-utils
